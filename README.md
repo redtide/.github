@@ -14,7 +14,7 @@
 - [wiki-x-air]:   Behringer X-AIR Digital Mixers Documentation 
 
 
-[ARIA]:         https://redtide.github.io/aria/
+[ARIA]:         https://sfz.github.io/aria/
 [notes]:        https://redtide.github.io/notes/
 [openbox-wiki]: https://redtide.github.io/openbox-wiki/
 [Openbox Wiki]: http://openbox.org/wiki/Main_Page
