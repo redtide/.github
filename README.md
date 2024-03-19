@@ -18,7 +18,7 @@
 [notes]:        https://redtide.github.io/notes/
 [openbox-wiki]: https://redtide.github.io/openbox-wiki/
 [Openbox Wiki]: http://openbox.org/wiki/Main_Page
-[sfztest]:      https://redtide.github.io/sfztest/
+[sfztest]:      https://sfzlab.github.io/sfztest/
 [kinwie]:       https://github.com/kinwie/
 [wiki-x-air]:   https://redtide.github.io/wiki-x-air/
 
